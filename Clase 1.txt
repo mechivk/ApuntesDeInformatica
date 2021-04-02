@@ -1,0 +1,65 @@
+Clase 1 - Introducción a la informática
+
+¿Qué es una computadora?
+Una computadora es un dispositivo electrónico capaz de recibir instrucciones y ejecutarlas. Estas instrucciones son dadas por un usuario, por medio de una interfaz que presenta el sistema operativo lo cual hace más sencilla la comunicación entre el usuario y la máquina. El sistema operativo interpreta y ejecuta con los recursos que dispone, a estos recursos se les conoce como hardware y software. La interacción entre el software y el hardware hace operativo un ordenador (u otro dispositivo), es decir, el software envía instrucciones que el hardware ejecuta, haciendo posible su funcionamiento.
+
+--
+Historia
+1122 (AC) - Creación del ábaco. (China)
+1642      - Primer calculadora, la pascalina. Blaise Pascal (Francia)
+1801      - Tarjetas perforadas, utilizada para crear diseños de telas complejos. Joseph Jacquard (Francia)
+1833-1842 - Primer computadora. Charles Babbage (Gran Bretaña)
+	  - Primer algoritmo. Ada Lovelace (Gran Bretaña)
+1936      - "Máquina de Turing", computadora diseñada para descifrar los mensajes alemanes en la WW2. Alan Turing (Gran Bretaña)
+1943      - ENIAC, una de las primeras computadoras, operadas por "las chicas del refrigerador", consideradas las primeras programadoras de la historia.(Estados Unidos)
+1945      - Diseño de la arquitectura que estableció las pautas de cómo debía ser armada una computadora para optimizar sus recursos. von Neumann (Hungría)
+40s       - Primera generación.
+50s       - Creación del transistor - chip.
+60s       - Creación del microchip.
+70s       - Creación de Windows - Apple - Linux.
+2011      - Inicios de la era cognitiva.
+
+--
+HARDWARE
+El hardware, equipo o soporte físico1​ en informática se refiere a las partes físicas, tangibles, de un sistema informático, sus componentes eléctricos, electrónicos, electromecánicos y mecánicos.​ Los cables, así como los gabinetes o cajas, los periféricos de todo tipo, y cualquier otro elemento físico involucrado, lo componen.
+ • Dispositivos de ENTRADA:
+   Son aquellos componentes que permiten el ingreso de información, desde alguna fuente externa o por parte del usuario. Transfieren al procesador información desde una fuente local o remota. También leen y cargan en memoria el sistema operativo y los programas informáticos.
+Ejemplos: Teclado, mouse, webcam, micrófono, escáner, joystick, etc.
+ • Dispositivos de SALIDA:
+   Son aquellos que permiten dar salida a la información resultante de las operaciones realizadas por la CPU. Permiten la interacción de la PC con el usuario o permiten que los datos generados por la computadora se dirijan al exterior por medio de dispositivos de almacenamiento. 
+Ejemplos: monitor, impresora, parlantes, consolas, etc.
+ • Dispositivos INTERNOS:
+   Es el conjunto de componentes físicos que forman parte del dispositivo principal, siendo inseparables de este. Cada parte del hardware interno es una pieza fundamental de cara al funcionamiento correcto del dispositivo.
+Ejemplos: placa base, CPU, RAM, GPU, HDD, SDD. 
+
+--
+SOFTWARE
+Se conoce como software o soporte lógico al sistema formal de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas.
+
+ • Software de SISTEMA:
+   Desvincula al usuario y al programador de los detalles del sistema informático en particular que se use, transparentando el procesamiento referido a las características internas de: memoria, discos, puertos y dispositivos de comunicaciones, impresoras, pantallas, teclados, etc. El software de sistema le procura al usuario y programador adecuadas interfaces de alto nivel, controladores, herramientas y utilidades de apoyo que permiten el mantenimiento del sistema global. 
+Incluye entre otros: Sistemas operativos, controladores de dispositivos, herramientas de diagnóstico, herramientas de corrección y optimización, servidores, utilidades.
+ • Software de PROGRAMACIÓN:
+   Es el conjunto de herramientas que permite al programador desarrollar programas de informática, usando diferentes alternativas y lenguajes de programación, de una manera práctica. 
+Incluyen en forma básica: editores de texto, compiladores, intérpretes, enlazadores, depuradores, entornos de desarrollo integrados (IDE).
+ • Software de PROGRAMACIÓN:
+   Es aquel que permite a los usuarios llevar a cabo una o varias tareas específicas, en cualquier campo de actividad susceptible de ser automatizado o asistido, con especial énfasis en los negocios. Incluye entre muchos otros: Aplicaciones para Control de sistemas y automatización industrial, aplicaciones ofimáticas, software educativo, software empresarial, bases de datos, telecomunicaciones (por ejemplo, Internet y toda su estructura lógica), videojuegos, software de diseño asistido (CAD).
+
+--
+SERVIDORES
+Un servidor es una computadora capaz de atender las peticiones de un cliente y devolverle una respuesta en concordancia. Se pueden ejecutar en computadoras dedicadas a las cuales se les conoce individualmente como "el servidor" o en la mayoría de los casos una misma computadora puede proveer múltiples servicios y tener varios servidores en funcionamiento.
+ • Servidor WEB:
+   Almacena documentos HTML, imágenes, archivos de texto, escrituras, y demás material web compuesto por datos (conocidos colectivamente como contenido) y distribuye este contenido a clientes que lo piden en la red.
+ • Servidor de BASE DE DATOS:
+   Provee servicios de base de datos a otros programas u otras computadoras, como es definido por el modelo cliente-servidor. También puede hacer referencia a aquellas computadoras (servidores) dedicadas a ejecutar esos programas, prestando el servicio.
+ • Servidor de ARCHIVOS:
+   Es el que almacena varios tipos de archivos y los distribuye a otros clientes en la red.
+
+--
+INTERFACES DE USUARIO (UI)
+ • Interfaz de LÍNEA DE COMANDOS (CLI):
+Interfaces alfanuméricas (intérpretes de comandos) que solo presentan texto.
+ • Interfaz GRÁFICA DE USUARIO (GUI):
+Permiten comunicarse con la computadora de forma rápida e intuitiva representando gráficamente los elementos de control y medida.
+ • Interfaz NATIVA DE USUARIO (NUI):
+Pueden ser táctiles, representando gráficamente un "panel de control" en una pantalla sensible al tacto que permite interactuar con el dedo de forma similar a si se accionara un control físico; pueden funcionar mediante reconocimiento del habla, como, por ejemplo, Siri; o mediante movimientos corporales, como es el caso de Kinect.

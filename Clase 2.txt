@@ -1,0 +1,29 @@
+Clase 2 - Introducción a la informática
+Alumna: Mercedes van Keulen
+
+LA TERMINAL
+Es un programa que está presente en todos los sistemas operativos. Usando la terminal podemos darle órdenes al sistema.
+Todo lo que hacemos usando el mouse, lo podemos lograr a través de comandos en la terminal. Por ejemplo: crear una carpeta o un archivo, mover un archivo de lugar, etc.
+
+¿Qué es un COMANDO?
+Un comando es una orden o instrucción capaz de ser interpretada y ejecutada por la computadora.
+Todo comando tiene su propia sintaxis, es decir, su manera de ser escrita para que la computadora pueda entender y ejecutar lo que el usuario especifica.
+Tipos de comandos:
+ • INFORMATIVOS:
+   - pwd / Mostrar el nombre de la carpeta en el que uno se encuentra situado (print working directory).
+   - Cd / Cambiar la carpeta de trabajo: Con este comando nos podemos mover entre diferentes directorios. 
+     Si queremos ir a un directorio en particular.
+   - Ls / Listar el contenido de directorios (list): Este comando lista los ficheros y carpetas.
+
+ • CREACIÓN O ELIMINACIÓN DE CARPETAS:
+   - mkdir / Crear un carpeta (make directory).
+   - rmdir / Borrar un carpeta (remove directory).
+
+ • CREACIÓN O ELIMINACIÓN DE ARCHIVOS:
+   - touch o gedit / Crear y editar archivos de texto.
+   - rm / Borrar archivos.
+
+ • COPIAR ARCHIVOS Y DIRECTORIOS:
+   - cp / Copiar un archivo o carpeta en el directorio especificado (copy).
+   - cp -r / Copiar carpetas.
+   - Lmv / Mover un archivo o carpeta a un archivo o carpeta (move).

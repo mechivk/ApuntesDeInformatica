@@ -1,0 +1,35 @@
+Clase 4 - Introducción a la informática
+Alumna: Mercedes van Keulen
+
+MOCHILA DEL VIAJERO
+
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un software de control de versiones, pensando en la eficiencia, la confiabilidad y compatibilidad 
+del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+
+El sistema operativo Linux, al 2005, tenía un gestor de paquetes que pasó a ser de pago, por lo que el desarrollador 
+principal de Linux (Linus Torvalds) decidió crear un nuevo gestor de control de versiones para su sistema, 
+y que diera soporte a su core. De esta forma nació Git.
+
+Su principal característica es que es capaz de mantener una gran cantidad de código distribuido, y se creó para 
+trabajar con equipos de envergadura de forma rápida y sencilla.
+
+Tras su uso por parte de Linux, lo expandieron para el desarrollo, y últimamente se ha convertido en una tendencia.
+
+Los repositorios de tipo Git son ampliamente utilizados en todo tipo de organizaciones, porque es fácil de utilizar,
+permite la colaboración, ayuda mucho a los equipos a estar conectados.
+
+
+2. ¿A quién pertenece actualmente Github y por qué?
+GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones 
+Git. El software que opera GitHub fue escrito en Ruby on Rails. Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. 
+Anteriormente era conocida como Logical Awesome LLC. El código de los proyectos alojados en GitHub se almacena típicamente de forma pública.
+
+El 4 de junio de 2018 Microsoft compró GitHub por 7500 millones de dólares1​, al inicio el cambio de propietario generó 
+preocupaciones y la salida de algunos proyectos de este repositorio​, sin embargo no fueron representativos. 
+GitHub continua siendo la plataforma más importante de colaboración para proyectos Open Source.
+
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Se puede trabajar directamente desde la página web o desde la aplicación de desktop de Github. 
+La desventaja que tiene es que no es tan práctico al momento de realizar proyectos con varios usuarios.

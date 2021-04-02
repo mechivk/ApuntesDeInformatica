@@ -1,0 +1,20 @@
+Clase 3 - Introducción a la informática
+Alumna: Mercedes van Keulen
+
+GIT
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código.
+
+Repositorio Local: Es el que tiene todos los archivos (que hayas guardado en él) en la computadora.
+
+Para crear un repositorio local: 
+        git init // crea el repositorio
+        git config user.name "nombre de usuario" // agrega nuestra identidad
+        git config user.email "nombreUsuario@email.com"  // agrega nuestro email
+        git remote add origin https://github.com/DH/RepoRemoto // apunta al repositorio remoto
+
+Para agregar archivos al repositorio
+        git add . // agrega todos los archivos
+        git status // seguimiento del estado de los archivos
+
+Para realizar el commit
+        git commit -m "mensaje" // comitea los cambios hechos
