@@ -1,0 +1,18 @@
+TIPOS DE MEMORIA
+Memoria principal: Almacena datos o info de forma temporal. Se puede acceder de forma directa, pero solo 
+se encuentra disponible cuando la computadora esta encendida. Capacidad limitada. Mayor velocidad y costo.
+	 - RAM (Random Access Memory)
+		• Velocidad: La velocidad de la memoria RAM determinará la velocidad a la que la CPU pueda procesar los datos. 
+		• Capacidad: Es la cantidad de datos que se pueden almacenar en una RAM. La capacidad se mide en gigabytes (GB).
+		• Latencia: Es la cantidad de ciclos de reloj que transcurren entre una petición y su respuesta.
+		• Voltaje: El voltaje hace referencia a la energía consumida por el módulo de RAM.
+	 - ROM
+	 - Caché: Se divide en niveles de jerarquia por cercania, velocidad y capacidad.
+
+Memoria secundaria: Almacena datos de forma permanente. No se puede acceder a los mismos de forma directa, 
+unicamente a traves de buses. De tipo no volatil. Capacidad amplia. Menor velocidad y costo.
+	 - Magnéticos
+	 - SSD (Solid State Drive)
+	 - Ópticos.
+
+Registros: Memoria de muy alta velocidad que se utiliza para acceder a datos importantes de manera rápida.
